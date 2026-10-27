@@ -1,0 +1,39 @@
+{
+  "edition": "Accessible Qur'an — Pilot",
+  "pages": [
+    {
+      "id": "fatiha-1",
+      "page": 1,
+      "title": "Surah Al-Fatihah",
+      "arabicTitle": "سُورَةُ الْفَاتِحَةِ",
+      "subtitle": "The Opening · 7 verses",
+      "surah": 1,
+      "audio": "audio/Fatiha-full.mp3",
+      "verses": [
+        {"number": 1, "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ", "translation": "In the name of Allah, the Gracious, the Merciful.", "audio": "audio/001-001-AR.mp3"},
+        {"number": 2, "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ", "translation": "All praise belongs to Allah, Lord of all the worlds.", "audio": "audio/001-002-AR.mp3"},
+        {"number": 3, "arabic": "الرَّحْمَٰنِ الرَّحِيمِ", "translation": "The Gracious, the Merciful.", "audio": "audio/001-003-AR.mp3"},
+        {"number": 4, "arabic": "مَالِكِ يَوْمِ الدِّينِ", "translation": "Master of the Day of Judgment.", "audio": "audio/001-004-AR.mp3"},
+        {"number": 5, "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ", "translation": "You alone do we worship, and You alone do we ask for help.", "audio": "audio/001-005-AR.mp3"},
+        {"number": 6, "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ", "translation": "Guide us on the right path.", "audio": "audio/001-006-AR.mp3"},
+        {"number": 7, "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ", "translation": "The path of those on whom You have bestowed Your blessings, not of those who have incurred displeasure, nor of those who have gone astray.", "audio": "audio/w001-007-AR.mp3"}
+      ]
+    },
+    {
+      "id": "ikhlas-1",
+      "page": 2,
+      "title": "Surah Al-Ikhlas",
+      "arabicTitle": "سُورَةُ الْإِخْلَاصِ",
+      "subtitle": "Sincerity · 4 verses",
+      "surah": 112,
+      "audio": "",
+      "opening": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verses": [
+        {"number": 1, "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ", "translation": "Say, He is Allah, the One.", "audio": ""},
+        {"number": 2, "arabic": "اللَّهُ الصَّمَدُ", "translation": "Allah, the Independent and Besought of all.", "audio": ""},
+        {"number": 3, "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ", "translation": "He begets not, nor is He begotten.", "audio": ""},
+        {"number": 4, "arabic": "وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ", "translation": "And there is none comparable to Him.", "audio": ""}
+      ]
+    }
+  ]
+}
